@@ -1,1 +1,2 @@
 # odin-recipes
+This is an odin guided project that involves creating a recipe webite using basic HTML knowledge. This will demonstrate basic knowledge for git and github along with an understanding in HTML.
